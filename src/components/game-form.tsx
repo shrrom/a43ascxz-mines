@@ -111,11 +111,11 @@ export class game_form extends Component<{} , IState> {
                     <span className='label'>Bombs</span>
                     <div  className="numberOfThieves">
                         <div className="input_container">
-                            <input onChange={this.onChangeValue} type="radio" id="fiveThieves" name="nThieves" value="1"  defaultChecked></input>
+                            <input onChange={this.onChangeValue} type="radio" id="oneThieves" name="nThieves" value="1"  defaultChecked></input>
                             <span className="checkmark">1</span>
                         </div>
                         <div className="input_container">
-                            <input onChange={this.onChangeValue} type="radio" id="fiveThieves" name="nThieves" value="2"  defaultChecked></input>
+                            <input onChange={this.onChangeValue} type="radio" id="threeThieves" name="nThieves" value="2"  defaultChecked></input>
                             <span className="checkmark">3</span>
                         </div>
                         <div className="input_container">
