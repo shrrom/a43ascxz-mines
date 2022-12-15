@@ -12,7 +12,7 @@ export class header extends React.Component {
         
         return (
             <header >
-                <h1>Gem Sweeper</h1>
+                <h1>Bloxspins Mines</h1>
                 <div className="profile-icon"></div>
             </header>
         )
