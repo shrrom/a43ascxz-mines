@@ -1,7 +1,7 @@
 .formBody{
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
-    color: #978AA0;
+    color: #ffffff;
     background-color: #0a0c1a;
     height: 100%;
     display: flex;
@@ -23,7 +23,7 @@
     
     .bedAmountBody{
         display: flex;
-        background-color: #5A4A67;
+        background-color: #0a0c19;
         border-radius: 5px;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.205);
         margin-bottom: 1rem;
@@ -32,7 +32,7 @@
         #betAmount{
             font-family: 'Poppins', sans-serif;
             font-weight: 700;
-            color: #978AA0;
+            color: #ffffff;
             border-radius: 5px;
             border: none;
             margin: 3px;
@@ -43,7 +43,7 @@
             flex-grow: 2;
             
             padding-left: 10px;
-            background-color: #342534;
+            background-color: #0a0c19;
 
             
             
@@ -84,7 +84,7 @@
                 margin-top: 6px;
                 position: absolute;
                 // right: 0;
-                background-color: #342534;
+                background-color: #0a0c19;
                 
             }
            
@@ -108,7 +108,7 @@
                 margin-top: 6px;
                 position: absolute;
                 // right: 0;
-                background-color: #342534;
+                background-color: #0a0c19;
                 
             }
             
@@ -161,7 +161,7 @@
         
     }
     .Start-Cashout{
-        color: #4A3B56;
+        color: #111433;
         padding: 0.8rem 0;
         user-select: none;
 
