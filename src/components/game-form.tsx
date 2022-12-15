@@ -108,7 +108,7 @@ export class game_form extends Component<{} , IState> {
                         <a onClick={this.MaxAmount} id="maxAmount" className="changeAmount" ></a>
                     </div>
                 
-                    <span className='label'>Number Of Thieves</span>
+                    <span className='label'>Bombs</span>
                     <div  className="numberOfThieves">
                         <div className="input_container">
                             <input onChange={this.onChangeValue} type="radio" id="fiveThieves" name="nThieves" value="1"  defaultChecked></input>
